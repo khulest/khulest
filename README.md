@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Sthembiso Mthethwa**
 
-🚀 I’m an aspiring \*\*Software Developer\*\*  with a strong passion for building innovative and scalable solutions that address real-world challenges in under-resourced communities.
+🚀 I’m an aspiring **Software Developer**  with a strong passion for building innovative and scalable solutions that address real-world challenges in under-resourced communities.
 🎓 A proud **ICT graduate** from **Durban University of Technology (DUT)**, I’m continuously upskilling in modern development tools and AI technologies.
 
 ---
